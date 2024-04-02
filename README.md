@@ -27,15 +27,3 @@ Run the game using
 Use the arrow keys to move the cursor, space to mark X or O, and 'q' to quit the game.
 
 
-### Screenshot
-
-![screenshot](./tictactoe.png)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests, report bugs, and suggest features.
-
-## License
-
-This project is dedicated to the public domain under the Unlicense. This means it's free for personal and commercial use, modification, distribution, and so on, without any restrictions whatsoever. For more details, see the [LICENSE](LICENSE) file included in this repository.
-
